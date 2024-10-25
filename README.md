@@ -1,7 +1,7 @@
 # Portfolio Data Analyst Nicolas Doaré
  Diplômé d'un Master Data Analyst, ce portfolio a pour objectif de montrer mes capacités d'analyse ainsi que mes compétences sur des outils tels que SQL, Python, Tableau ou encore Power Bi.
 
-# Netflix Userbase Dashboard
+# Projet 1: Netflix Userbase Dashboard
 
 ## Description du projet
 Ce projet consiste en la création d'un tableau de bord interactif qui analyse les données des utilisateurs de Netflix. Le tableau de bord présente plusieurs métriques importantes, telles que le nombre total d'utilisateurs, la répartition par type d'appareil, le revenu généré par pays, ainsi que la progression du nombre d'abonnés au fil du temps.

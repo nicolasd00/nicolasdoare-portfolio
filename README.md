@@ -34,4 +34,5 @@ Ce projet consiste en l'analyse sur python d'un match de foot grâce à différe
 
 ## Lien vers le notebook pyhton
 
-[Go to Jupyter notebook file]
+[Go to Jupyter notebook file](Téléchargements/Analyse_match_foot.ipynb)
+

@@ -36,3 +36,8 @@ Ce projet consiste en l'analyse sur python d'un match de foot grâce à différe
 
 [Go to Jupyter notebook file](https://github.com/nicolasd00/nicolasdoare-portfolio/blob/main/Projet2_Analyse_d'un_match_de_foot.ipynb)
 
+# Projet 3: Analyse des ventes d'une plateforme e-commerce
+
+## Description du projet
+Ce projet consiste en l'analyse sur python d'un match de foot grâce à différente données que l'on peu récolté au cours d'un match. Le match que j'ai choisi d'analyser est la finale de la Ligue des champions de la saison 2017-2018 entre le Real Madrid et Liverpool. J'ai récupérer les données sur StatsBomb data chompions. Les fichiers se présentaient sous forme d'un json. J'ai donc importer ces données sur python en créant différents dataframes correspondants aux différents évenements présents lors du match.
+
